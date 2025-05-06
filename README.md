@@ -56,7 +56,7 @@ Me enfoco en aplicar buenas prácticas, patrones de diseño y metodologías ági
 
 ### 📫 Contacto
 - GitHub: [@G4ndhiV](https://github.com/G4ndhiV)  
-- LinkedIn: [Tu perfil aquí]  
+- LinkedIn: www.linkedin.com/in/gandhi-emmanuel-valdez-huerta-027a95363  
 - Correo: gandhivaldezhuerta@hotmail.com
 
 ---
