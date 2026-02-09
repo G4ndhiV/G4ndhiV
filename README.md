@@ -1,11 +1,11 @@
-# 👋 ¡Hola, soy Gandhi Valdez!
+#¡Hola, soy Gandhi Valdez!
 
-🎓 **Ingeniero en Tecnologías Computacionales** | Tecnológico de Monterrey  
-💻 **Desarrollador de software** apasionado por crear soluciones innovadoras, eficientes y de impacto.
+**Ingeniero en Tecnologías Computacionales** | Tecnológico de Monterrey  
+**Desarrollador de software** apasionado por crear soluciones innovadoras, eficientes y de impacto.
 
 ---
 
-### 💼 Sobre mí
+###Sobre mí
 
 Soy un desarrollador con experiencia en:
 
@@ -25,7 +25,7 @@ Soy un desarrollador con experiencia en:
 
 ---
 
-### 📂 Experiencia académica
+### Experiencia académica
 Durante mi formación he trabajado con **socioformadores** como:
 - Oracle  
 - Banco de Alimentos de Guadalajara  
@@ -35,7 +35,7 @@ Me enfoco en aplicar buenas prácticas, patrones de diseño y metodologías ági
 
 ---
 
-### 🚀 Proyectos destacados
+### Proyectos destacados
 - **Machine Learning para drones:** Desarrollo de modelos para detección de colores, formas e individuos usando técnicas de visión computacional.
 - **Telegram Project Bot:** Chatbot para administración de proyectos integrado con portal web y métricas.
 - **Página web de IAs destacadas:** Sitio web que recopila y presenta herramientas de inteligencia artificial relevantes.
@@ -47,19 +47,16 @@ Me enfoco en aplicar buenas prácticas, patrones de diseño y metodologías ági
 
 ---
 
-### 🌱 Actualmente aprendiendo
+### Actualmente aprendiendo
 - Arquitectura de software avanzada  
 - Microservicios y escalabilidad  
 - Inteligencia Artificial aplicada a desarrollo
 
 ---
 
-### 📫 Contacto
+### Contacto
 - GitHub: [@G4ndhiV](https://github.com/G4ndhiV)  
 - LinkedIn: www.linkedin.com/in/gandhi-emmanuel-valdez-huerta-027a95363  
 - Correo: gandhivaldezhuerta@hotmail.com
 
----
 
-_Construyendo soluciones que transforman y generan impacto._  
-_Siempre abierto a nuevas oportunidades, colaboración y aprendizaje._
