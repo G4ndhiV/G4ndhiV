@@ -1,11 +1,11 @@
-#¡Hola, soy Gandhi Valdez!
+# ¡Hola, soy Gandhi Valdez!
 
 **Ingeniero en Tecnologías Computacionales** | Tecnológico de Monterrey  
 **Desarrollador de software** apasionado por crear soluciones innovadoras, eficientes y de impacto.
 
 ---
 
-###Sobre mí
+### Sobre mí
 
 Soy un desarrollador con experiencia en:
 
